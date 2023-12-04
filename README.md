@@ -1,4 +1,5 @@
-### Hi there 👋 I am Sanjeevi
+                     # Hi there 👋, I am Sanjeevi.
+                     ## _An enthusiastic software developer_ 
 
 - 🔭 I’m currently working on Portfolio
 - 🌱 I’m currently learning Machile Learning
